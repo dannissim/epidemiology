@@ -1,2 +1,5 @@
 jupyterlab
 notebook
+numpy
+scipy
+plotly
